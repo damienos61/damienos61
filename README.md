@@ -48,8 +48,3 @@ A causal execution engine for the Go language built to track data dependencies a
 </p>
 
 ---
-
-## ⚡ Beyond the Code
-- **Philosophy:** Keep it bare-metal, avoid bloated frameworks, and force the infrastructure to understand the code—not the other way around.
-- **Interests:** High-concurrency systems, network reconnaissance, and hardware-software integration for environmental monitoring.
-- *“The best abstraction is the one that compiles away.”*
